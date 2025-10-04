@@ -1,6 +1,7 @@
 # 🕰️ Time Machine Playlist
 
-A web application that lets you travel back in time musically by exploring the Billboard Hot 100 charts from any week in history. Discover what songs were popular on any given date and create nostalgic playlists from different decades.
+A web application that lets you travel back in time musically by exploring the Billboard Hot 100 charts from any week in history. Discover what songs were popular on any given date and create nostalgic playlists from different decades. 
+Project Link: https://musictimemachine.netlify.app/
 
 ## ✨ Features
 
